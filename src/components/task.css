@@ -1,0 +1,10 @@
+.task{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.done {
+    border-left: 2em solid green;
+}
